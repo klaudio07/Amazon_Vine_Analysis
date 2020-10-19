@@ -15,15 +15,15 @@ Module 16 Big Data
 
 1-  How many Vine reviews and non-Vine reviews were there?
  
-...
+Total reviews were 104,975
 
 2- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-....
+5 Star reviews were 52,255
 
 3- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-....
+Around 50% of Vine reviews were 5 star
 
 
 # Summary:
